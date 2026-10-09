@@ -9,6 +9,13 @@ Software developer and AI engineer from India. I care about the gap between "the
 - 📄 **[PDF ChatBot](https://github.com/Mohammmed-Waleed/PDF_ChatBot)**: RAG over your PDFs with LangChain, ChromaDB and a local LLM
 - 🌐 **[Manara](https://getmanara.online)**: React + Tailwind business site
 
+**More projects**
+- 📊 **[PDF to CSV Converter](https://github.com/Mohammmed-Waleed/PDF_to_CSV_Converter)**: batch tool that turns PDF reports into one clean CSV, with section extraction, date normalisation and AI labels
+- 🧩 **[An AI Agent](https://github.com/Mohammmed-Waleed/An-AI-Agent)**: an AI agent built from scratch in Python with LLMs
+- 🇮🇳 **[SiliconSiri](https://github.com/Mohammmed-Waleed/SiliconSiri)**: Gemini chatbot (Google AI Studio) that explains Karnataka's IT exports
+- 🖐️ **[Virtual Calculator](https://github.com/Mohammmed-Waleed/Virtual-Calculator)**: an on-screen calculator built with OpenCV
+- 📱 **Campus Connect** (private): Flutter + Firebase campus app with real-time chat, notifications and QR attendance
+
 **At work** (global display-technology company): a production RAG support chatbot, PDF-to-data ETL pipelines, an LLM math solver on Amazon Bedrock, and an on-prem device platform in .NET with Docker Swarm.
 
 **Stack:** Python · LangChain · Claude / OpenAI / Bedrock · MCP · YOLO / OpenCV · scikit-learn · FastAPI · .NET · Nuxt.js · NestJS · Flutter · PostgreSQL · Docker · GitHub Actions
